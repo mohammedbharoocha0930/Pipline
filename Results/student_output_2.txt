@@ -1,0 +1,19 @@
+====================================================
+Input source         : Testing/Testcases/input2.txt
+Numbers to process   : 10
+Generator threads    : 3
+Processor threads    : 3
+Writer threads       : 1
+Buffer size          : 10
+====================================================
+
+Input: 1, Result: 144
+Input: 2, Result: 25
+Input: 3, Result: 400
+Input: 4, Result: 49
+Input: 5, Result: 225
+Input: 6, Result: 4
+Input: 7, Result: 900
+Input: 8, Result: 625
+Input: 9, Result: 100
+Input: 10, Result: 64
